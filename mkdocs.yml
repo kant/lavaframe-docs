@@ -1,0 +1,16 @@
+site_name: Ignition Renderer
+theme:
+  name: material
+  favicon: material/fire
+  palette:
+    scheme: slate
+    primary: orange
+    accent: deep orange
+  icon:
+    logo: material/fire
+extra:
+  social:
+    - icon: fontawesome/brands/discord
+      link: https://discord.com/invite/ChNjs8jYaA
+  generator: false
+copyright: Created with ❤️ by the Ignition Renderer team
