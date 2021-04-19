@@ -1,4 +1,4 @@
-site_name: Ignition Renderer
+site_name: LavaFrame documentation
 theme:
   name: material
   favicon: material/fire
@@ -13,4 +13,4 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.com/invite/ChNjs8jYaA
   generator: false
-copyright: Created with ❤️ by the Ignition Renderer team
+copyright: Created with ❤️ by the LavaFrame team
